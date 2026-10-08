@@ -1,6 +1,6 @@
 # Olanrewaju Muili
 
-PhD researcher working on **Reliable AI, Reinforcement Learning, and AI Evaluation**.
+**Reliable AI, Reinforcement Learning, and AI Evaluation & Infrastructure**.
 
 I study how AI systems make decisions when their observations are corrupted, uncertain, incomplete, or misleading.
 
